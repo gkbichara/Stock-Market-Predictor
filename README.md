@@ -6,7 +6,7 @@ The **Stock Market Predictor** is a machine learning project that forecasts stoc
 ## Features
 - Scrapes and preprocesses historical stock data for analysis.
 - Implements machine learning models to predict stock prices.
-- Evaluates model performance using metrics such as accuracy, R-squared, and mean squared error.
+- Evaluates model performance using metrics such as accuracy and precision
 - Data cleaning, normalization, and feature engineering to optimize model accuracy.
 
 ## Tech Stack
